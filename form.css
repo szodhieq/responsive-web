@@ -1,0 +1,10 @@
+.cool{
+	text-align: center;
+	font-family: 'Oswald', Helvetica, sans-serif;
+	font-size: 40px;
+	letter-spacing: 4px;
+	color: tomato;
+}
+body{
+	background: linear-gradient(to right, purple,green);
+}
